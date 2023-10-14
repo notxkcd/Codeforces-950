@@ -13,6 +13,15 @@ algorithms in Number Theory, Dynamic Programming,
 Greedy, Graph Theory and Search
 
 
+
+| STATUS  | Meaning                |
+|------- |------------------------ |
+| AC     | Accepted                |
+| CS     | Can't Solve             |
+| WA     | Wrong Answer            |
+| TLE    | Time Limit Exceeded     |
+
+
 | Problem Type | Contest Division | Difficulty Range |
 |--------------|------------------|------------------|
 | Div. 2-A     | Div. 2           | 1 - 2            |
@@ -24,7 +33,11 @@ Greedy, Graph Theory and Search
 | Div. 1-E     | Div. 1           | 8 - 9.75         |
 
 
+
+| Problem Name    | Problem Code | Status | Submit Count | Reading Time(m) | Thinking Time(m) | Coding Time(m) | Debug Time(m) | Total Time(m) | Problem Level /10 | By yourself? | Category |
+| -----------------|--------------|--------|--------------|------------------|-------------------|----------------|---------------|---------------|-------------------|--------------|----------|
+| AC Averages     | 3            | 0.7    | 3            | 10               | 13                | 7              | 33            | 1.3           | 1                 | 4            |
+
 # A
 
-
-
+In the first 20 problems, don't think more than 20 minutes. After that see the solutions.
