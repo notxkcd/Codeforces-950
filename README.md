@@ -45,10 +45,10 @@ Greedy, Graph Theory and Search
 
 In the first 20 problems, don't think more than 20 minutes. After that see the solutions.
 
- Problem Name      | Problem Code   | Status   | Submit Count   | Reading Time(m)    | Thinking Time(m)    | Coding Time(m)   | Debug Time(m)   | Total Time(m) |
-| -----------------                                              | -------------- | -------- | -------------- | ------------------ | ------------------- | ---------------- | --------------- | ------------- |
-| [Vanya and Fence](http://codeforces.com/contest/677/problem/A) | CF677-D2-A     | AC       | 3              | 3                  | 10                  | 7                | 10              | 30            |
-|                                                                |
+ ||Problem Name                                                  |  Answer               | Video    | Submit Count   | Reading Time(m)    | Thinking Time(m)    | Coding Time(m)   | Debug Time(m)   | Total Time(m) |
+| ------------------                                             | --------------        | -------- | -------------- | ------------------ | ------------------- | ---------------- | --------------- | ------------- |
+| [Vanya and Fence](http://codeforces.com/contest/677/problem/A) | [Click](./Code/1.cpp) |          | 7              | 13                 | 15                  | 7                | 10              | 45            |
+|                                                                |                       |          |                |                    |                     |                  |                 |               |
 
 
 
