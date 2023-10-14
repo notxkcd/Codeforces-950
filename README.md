@@ -46,7 +46,7 @@ Greedy, Graph Theory and Search
 In the first 20 problems, don't think more than 20 minutes. After that see the solutions.
 
  | No                 | Problem Name                                                   | Answer                | Video          | Submit Count       | Reading Time(m)     | Thinking Time(m) | Coding Time(m)  | Debug Time(m) | Total Time(m) |
- | ------------------ | --------------                                                 | --------              | -------------- | ------------------ | ------------------- | ---------------- | --------------- | ------------- |
+ | ------------------ | --------------                                                 | --------              | -------------- | ------------------ | ------------------- | ---------------- | --------------- | ------------- | ------------  |
  | 1                  | [Vanya and Fence](http://codeforces.com/contest/677/problem/A) | [Click](./Code/1.cpp) |                | 7                  | 13                  | 15               | 7               | 10            | 45            |
  | 2                  | [Anton and Danik](http://codeforces.com/contest/734/problem/A) | [Click](./Code/2.cpp) |                |                    |                     |                  |                 |               |               |
  |--------------------|----------------------------------------------------------------|-----------------------|----------------|--------------------|---------------------|------------------|-----------------|---------------|---------------|
