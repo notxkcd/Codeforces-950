@@ -50,6 +50,8 @@ Here's copy of my [sheet]("https://docs.google.com/spreadsheets/d/1JeCBL2MFT4HQX
 
 1. [Vanya and Fence](http://codeforces.com/contest/677/problem/A) | [Solution](./Code/1.cpp) 
 2. [Anton and Danik](http://codeforces.com/contest/734/problem/A) | [Solution](./Code/2.cpp) 
+3. [Bear and Big Brother](http://codeforces.com/contest/791/problem/A) | [Solution](Code/3.cpp)
+4. [Team](http://codeforces.com/contest/231/problem/A) | [Solution](Code/4.py)
  
 
 
