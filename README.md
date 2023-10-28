@@ -40,7 +40,7 @@ Greedy, Graph Theory and Search
 | AC         | 3                | 3                    | 10                    | 7                  | 10                | 30              |
 
 
-<div style="display:flex; align-items: center; "> Here's copy of my <a src="https://docs.google.com/spreadsheets/d/1JeCBL2MFT4HQXL-UX9cvfjNY--pi9KwqHMHIzTQC1lk/edit?usp=sharing">sheet</a> <span style="vertical-align:middle"><img  style="height:20px" src="./excel.svg"></span>.</div>
+Here's copy of my <a src="https://docs.google.com/spreadsheets/d/1JeCBL2MFT4HQXL-UX9cvfjNY--pi9KwqHMHIzTQC1lk/edit?usp=sharing">sheet</a> <span style="vertical-align:middle"><img  style="height:20px" src="./excel.svg"></span>
 
 
 
