@@ -14,32 +14,33 @@ Greedy, Graph Theory and Search
 
 
 
-| STATUS  | Meaning                |
-|------- |------------------------ |
-| AC     | Accepted                |
-| CS     | Can't Solve             |
-| WA     | Wrong Answer            |
-| TLE    | Time Limit Exceeded     |
+| STATUS    | Meaning                   |
+| :-------: | :------------------------: |
+| AC        | Accepted                  |
+| CS        | Can't Solve               |
+| WA        | Wrong Answer              |
+| TLE       | Time Limit Exceeded       |
 
 
-| Problem Type | Contest Division | Difficulty Range |
-|--------------|------------------|------------------|
-| Div. 2-A     | Div. 2           | 1 - 2            |
-| Div. 2-B     | Div. 2           | 1.5 - 3          |
-| Div. 2-C     | Div. 2           | 3 - 5.5          |
-| Div. 2-D     | Div. 2           | 5 - 6.5          |
-| Div. 2-E     | Div. 2           | 6 - 7.5          |
-| Div. 1-D     | Div. 1           | 7 - 8.5          |
-| Div. 1-E     | Div. 1           | 8 - 9.75         |
+| Problem Type     | Contest Division     | Difficulty Range    |
+| :--------------: | :------------------: | :------------------: |
+| Div. 2-A         | Div. 2               | 1 - 2               |
+| Div. 2-B         | Div. 2               | 1.5 - 3             |
+| Div. 2-C         | Div. 2               | 3 - 5.5             |
+| Div. 2-D         | Div. 2               | 5 - 6.5             |
+| Div. 2-E         | Div. 2               | 6 - 7.5             |
+| Div. 1-D         | Div. 1               | 7 - 8.5             |
+| Div. 1-E         | Div. 1               | 8 - 9.75            |
 
 
 **General Structure**
-| Problem Name      | Problem Code   | Status   | Submit Count   | Reading Time(m)    | Thinking Time(m)    | Coding Time(m)   | Debug Time(m)   | Total Time(m) |
-| ----------------- | -------------- | -------- | -------------- | ------------------ | ------------------- | ---------------- | --------------- | ------------- |
-|                   |                | AC       | 3              | 3                  | 10                  | 7                | 10              | 30            |
+
+| Status     | Submit Count     | Reading Time(m)      | Thinking Time(m)      | Coding Time(m)     | Debug Time(m)     | Total Time(m)   |
+| :--------: | :--------------: | :------------------: | :-------------------: | :----------------: | :---------------: | :-------------: |
+| AC         | 3                | 3                    | 10                    | 7                  | 10                | 30              |
 
 
-Here's my copy of the [sheet](https://docs.google.com/spreadsheets/d/1JeCBL2MFT4HQXL-UX9cvfjNY--pi9KwqHMHIzTQC1lk/edit?usp=sharing) <span style="vertical-align:middle"><img src="./Excel.png"></span>.
+<div style="display:flex; align-items: center; "> Here's copy of my <a src="https://docs.google.com/spreadsheets/d/1JeCBL2MFT4HQXL-UX9cvfjNY--pi9KwqHMHIzTQC1lk/edit?usp=sharing">sheet</a> <span style="vertical-align:middle"><img  style="height:20px" src="./excel.svg"></span>.</div>
 
 
 
