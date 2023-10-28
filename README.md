@@ -1,4 +1,4 @@
-This is a problem solving sheet by [Dr Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) - ~950 problems for newcomers to problem solving.
+This is a problem solving sheet by [Dr.Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) - ~950 problems for newcomers to problem solving.
 
 The goal of this sheet is to enhance algorthmic probem solving skills for both programming competitions and interviws preparations.
 
