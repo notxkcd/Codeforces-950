@@ -1,0 +1,5 @@
+#!/bin/sh
+git add README.md
+git add Code/*
+git commit -m
+git push
