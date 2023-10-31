@@ -43,6 +43,7 @@ Greedy, Graph Theory and Search
 Here's copy of my [sheet](https://docs.google.com/spreadsheets/d/1JeCBL2MFT4HQXL-UX9cvfjNY--pi9KwqHMHIzTQC1lk/edit?usp=sharing) <span style="vertical-align:middle"><img  style="height:20px" src="./excel.svg"></span>
 
 
+Here's what I [learned](Docs/index.md) from solving  this.
 
 
 

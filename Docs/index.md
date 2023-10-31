@@ -2,4 +2,4 @@
 
 ## A
 
-1. [Beautiful Matrix](bmatrix.html)
+1. [Beautiful Matrix](bmatrix.md)
