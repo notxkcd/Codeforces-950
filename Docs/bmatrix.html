@@ -1,0 +1,63 @@
+<h1 id="beautiful-matrix">Beautiful Matrix</h1>
+<p>My original solution was this</p>
+<p><a href="https://codeforces.com/contest/263/problem/A">Problem</a>
+~~~python def solve(arr): pos = arr.index(1)+1 steps = 0 if pos == 13:
+return 0 while (pos != 13): if (pos &gt;= 1 and pos &lt;= 10): pos += 5
+steps += 1 elif (pos &gt;= 11 and pos &lt; 13): pos += 1 steps += 1 elif
+(pos &gt; 13 and pos &lt;= 15): pos -= 1 steps += 1 elif (pos &gt;= 16
+and pos &lt;= 25): pos -= 5 steps += 1 return steps</p>
+<p>grid = [list(map(int, input().split())) for _ in range(5)] arr =
+[element for row in grid for element in row]</p>
+<p>print(solve(arr))</p>
+<pre><code>
+
+I didn&#39;t quite understood it at first then I understood what they mean by swapping. So did all that pattern matching edge cases.
+
+
+Then I looked into actual solution
+
+~~~cpp
+#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+  int x = 0;
+  auto k = ((5 + 1) / 2); // Middle of 5x5 Matrix. n+1/2 of nxn matrix
+
+  // find pos of 1
+  for (int i = 1; i &lt;= 5; i++) {
+    for (int j = 1; j &lt;= 5; j++) {
+      cin &gt;&gt; x;
+      if (x == 1) {
+        cout &lt;&lt; abs(i - k) + abs(j - k);
+        break;
+      }
+    }
+  }
+  return 0;
+}
+</code></pre>
+<p>not gonna lie it;s pretty easy; just need to understand the
+pattern.</p>
+<p>The concept here is to learn is <strong>Manhattan
+Distance.</strong></p>
+<p>In the context of Manhattan distance, <span
+class="math inline"><em>k</em></span> represents the center of the grid
+along both the <span class="math inline"><em>i</em></span> and <span
+class="math inline"><em>j</em></span> axes(row, column).</p>
+<p><span class="math display">$${k = {{n+1} \over{2}}}$$</span></p>
+<p><span class="math inline">${In\space the\space context\space of\space
+an\space nxn\space matrix,}$</span> <span
+class="math display">$${Center\space Point = (k,k)}$$</span> <span
+class="math display">$${Manhatten\space Distance = |i-k| + |j-k|
+}$$</span></p>
+<p>In a <span class="math inline">5<em>x</em>5</span> grid, <span
+class="math display">$${k = {{5+1} \over{2}} = 3}$$</span> <span
+class="math display">$${Center\space Point = (3,3)}$$</span></p>
+<p><span class="math display">$${Manhatten\space Distance = |i-3| +
+|j-3| }$$</span></p>
+<p>Calculating Steps:</p>
+<p><span class="math inline">|<em>i</em>−3|</span> - distance from
+center row <span class="math inline">|<em>j</em>−3|</span> - distance
+from center column</p>
+<p>you can also say the above as swapping(perspective).</p>
